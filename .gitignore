@@ -18,3 +18,4 @@ Thumbs.db
 Models/
 *.gguf 
 *.bin
+Models/*.gguf
